@@ -198,8 +198,7 @@ npm test tests/integrations/faqs.test.js
 
 ```
 ## Contributing
-
-- We welcome contributions from the community to enhance FAQAPI and make it even more valuable for users. If you'd like to contribute, please follow these steps:
+We welcome contributions from the community to enhance FAQAPI and make it even more valuable for users. If you'd like to contribute, please follow these steps:
 - Fork the repository.
 - Create a new branch for your feature or bug fix.
 - Commit your changes and push the branch to your fork.
