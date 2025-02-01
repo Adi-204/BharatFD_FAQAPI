@@ -194,6 +194,17 @@ Example Response:
 npm test
 
 # Run specific test file
-npm test tests/integrations/faq.test.js
+npm test tests/integrations/faqs.test.js
 
 ```
+## Contributing
+
+- We welcome contributions from the community to enhance FAQAPI and make it even more valuable for users. If you'd like to contribute, please follow these steps:
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Commit your changes and push the branch to your fork.
+- Submit a pull request with a detailed description of your changes.
+  
+## Contact
+
+- For questions, feedback, or support, please contact us at adiboghawala@gmail.com.
